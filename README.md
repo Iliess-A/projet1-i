@@ -1,1 +1,1 @@
-#The little junior dev doing he's work
+#The little junior dev doing his work
