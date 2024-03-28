@@ -20,5 +20,5 @@ confident developer.
 # And he will become rich
 
 <div align="center">
-<img src="assets/money-rain.gif">
+<img src="assets/rat.gif">
 </div>
