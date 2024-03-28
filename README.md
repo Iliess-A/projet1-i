@@ -19,3 +19,6 @@ confident developer.
 ## his work will pay off
 # And he will become rich
 
+<div align="center">
+<img src="assets/money-rain">
+</div>
