@@ -12,3 +12,10 @@ He **embraced every opportunity** to **learn, grow, and improve** his
 coding skills.
 With **dedication and perseverance**, he **transformed into a skilled and 
 confident developer**.
+
+#The little junior dev doing his work
+
+### The little devlopper will become a master
+## his work will pay off
+# And it will become rich
+
